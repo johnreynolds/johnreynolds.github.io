@@ -13,16 +13,4 @@ Decision Coaches ask a lot of questions to help others reach decisions. The sequ
 
 Some questions are designed to probe deeper. Other questions are designed to shift attention.
 
-Questions about the Decision:
-What should the decision accomplish?
-
-When is the decision due?
-
-Who has to agree with the decision?
-
-What are the criteria that will be used to compare options?
-
-Questions about each Option:
-Do you know enough about this option to consider it?
-
-Is this option valid?
+[Question list](questionlist.md)
