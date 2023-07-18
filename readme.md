@@ -11,6 +11,16 @@ Decisions should satisfy a set of requirements. This set of requirements is also
 # Questions
 Decision Coaches ask a lot of questions to help others reach decisions. The sequence in which these questions are asked is highly variable and based on the decision coach's instinct on which question will most quickly lead to reaching an informed decision.
 
-Some questions are designed to probe deeper. Other questions are designed to shift attention.
+When coaching folks towards reaching a decision, the advice that you give and the questions that you ask should be influenced by how far along the process is. Some questions are designed to probe deeper. Other questions are designed to shift attention.
 
-[Question list](questionslist.md)
+How much do they know, and how much do they still need to know?
+
+Are they making progress, or are they stuck?
+
+If they are stuck, what do you think is their problem?
+
+Are they unable to find important information?
+
+Are they unable to resolve priorities?
+
+[Questions to ask](questionslist.md)
