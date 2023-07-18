@@ -12,3 +12,5 @@ What are the criteria that will be used to compare options?
 Do you know enough about this option to consider it?
 
 Is this option valid?
+Does it meet the basic requirements?
+Does it violate any constraints?
