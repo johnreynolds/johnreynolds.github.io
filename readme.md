@@ -13,4 +13,4 @@ Decision Coaches ask a lot of questions to help others reach decisions. The sequ
 
 Some questions are designed to probe deeper. Other questions are designed to shift attention.
 
-[Question list](questionlist.md)
+[Question list](questionslist.md)
