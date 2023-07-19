@@ -5,7 +5,7 @@ The primary skill of a decision coach is to be able to ask questions that move t
 
 DecisionCoach is an attempt to automate that coaching process.
 
-# Criteria
+# [Criteria] (criteria.md)
 Decisions should satisfy a set of requirements. This set of requirements is also know as criteria, and when multiple options are being considered the degree to which each option satisfies the criteria should be of primary importance when choosing one over another.
 
 # [Questions](questions.md)
