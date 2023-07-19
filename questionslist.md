@@ -4,6 +4,18 @@ There are a number of questions to ask the client that can help them move closer
 
 What factors indicate that a specific question should be asked?
 
+When coaching folks towards reaching a decision, the advice that you give and the questions that you ask should be influenced by how far along the process is. Some questions are designed to probe deeper. Other questions are designed to shift attention.
+
+How much do they know, and how much do they still need to know?
+
+Are they making progress, or are they stuck?
+
+If they are stuck, what do you think is their problem?
+
+Are they unable to find important information?
+
+Are they unable to resolve priorities?
+
 ## Questions about the Decision
 
 What should the decision accomplish?
